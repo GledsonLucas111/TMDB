@@ -12,6 +12,27 @@ src="https://camo.githubusercontent.com/028343c96278d8610acbf46e6215f28b6fb7e2d7
  
  ## 🔗 Link Surge - link para visualização do site
  - Link: https://standing-apparatus.surge.sh
+ 
+ ## Como executar este projeto em sua maquina 
+ 
+ O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
+
+<h3> Scripts Disponíveis: </h3>
+
+No diretório do projeto, você pode executar:
+
+### `npm install`
+
+Para instalar a node_modules para que o projeto funcione sem nenhum erro.
+
+### `npm start`
+
+Executa o aplicativo no modo de desenvolvimento.
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador. 
+A página será recarregada se você fizer edições.
+Você também verá erros de lint no console.
+
+Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
 ## 🛠 Tecnologias
  Ferramentas usadas na construção do projeto:
